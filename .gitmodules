@@ -1,0 +1,3 @@
+[submodule "Plugins/Cirrova"]
+	path = Plugins/Cirrova
+	url = https://github.com/TrifingZW/Cirrova.git
