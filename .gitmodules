@@ -1,3 +1,6 @@
 [submodule "Plugins/Cirrova"]
 	path = Plugins/Cirrova
 	url = https://github.com/TrifingZW/Cirrova.git
+[submodule "ThirdParty/liminal"]
+	path = ThirdParty/liminal
+	url = https://github.com/TrifingZW/liminal.git
