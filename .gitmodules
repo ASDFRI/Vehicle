@@ -4,3 +4,6 @@
 [submodule "ThirdParty/liminal"]
 	path = ThirdParty/liminal
 	url = https://github.com/TrifingZW/liminal.git
+[submodule "Plugins/SingularisMorphVehicle"]
+	path = Plugins/SingularisMorphVehicle
+	url = https://github.com/ASDF-Singularis/SingularisMorphVehicle.git
